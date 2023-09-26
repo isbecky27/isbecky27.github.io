@@ -1,0 +1,23 @@
+{{ $color := "" }}
+
+{{ if eq (.Get 0) "warning" }}
+  {{ $color = "255, 221, 102" }}
+{{ else if eq (.Get 0) "info" }}
+  {{ $color = "102, 187, 255" }}
+{{ else if eq (.Get 0) "danger" }}
+  {{ $color = "255, 102, 102" }}
+{{ else if eq (.Get 0) "success" }}
+  {{ $color = "54, 179, 126" }}
+{{ else }}
+  {{ $color = "91, 93, 94" }}
+{{ end }}
+
+
+<blockquote style="border-radius: .25rem;
+margin: 1rem 0;
+padding: .5rem 1rem .5rem .75rem;
+border-left: .25rem solid;
+border-left-color: rgba({{ $color }}, 1);
+background-color: rgba({{ $color }}, 0.25);">
+{{ .Inner | safeHTML }}
+</blockquote>
