@@ -2,7 +2,7 @@
 title = '奧捷自由行 - Overview'
 date = 2023-09-24T16:16:53+08:00
 draft = false
-description = '整趟自由行的總覽'
+description = '整趟自由行的總覽 - 2023.08'
 +++
 
 ## 航班 
@@ -66,9 +66,24 @@ PS. 15:39 就降落到桃園機場了，提早好多 ! 但行李等了半小時.
 如果時間金錢允許的話，建議整趟旅程可以再多排個 2 天，不管是想多去其他地方（e.g. 國王湖、聖沃夫岡 St. Wolfgang..），或是 Hallstatt & Salzburg 各多留一天，都是不錯的選擇！
 {{< /hint >}}
 
+## 網卡
 
-<!-- ## 網卡
+網卡我們是在 [KKDay](https://www.kkday.com/zh-tw/product/134326?utm_nooverride=1)
+ 買了 Vodafone 3 張、MOVISTAR 2 張，都是 10 天 10G，最後大概用 3G 而已..
 
-## 推薦的網站
-背包客棧
-Trip -->
+* Vodafone 只能寄送到家
+* MOVISTAR 只能機場領卡（第一航廈的營業時間比較短要注意！）
+
+插卡操作很簡單，照著說明做就連得到網路了！整趟用下來都很順，到不同國家會自動切換到不同電信，偶爾 google map 的定位會飄，但大部分還是蠻準的。
+
+{{< hint danger >}}
+在填寫開卡日期的時候要注意，假設你填寫 08/19，那麼開卡時間會是 08/19 西班牙時間早上 10 ~ 12 點之間。 
+為了一下飛機就能使用網路我們開卡日期是設為 08/18。
+{{< /hint >}}
+
+
+## 推薦網站
+自由行都要做大量功課，除了部落客的分享文外，推薦幾個網站可以在裡面看看前人的經驗 & 發問！
+
+* [背包客棧](https://www.backpackers.com.tw/forum/)
+* [Tripadvisor Forums](https://www.tripadvisor.com/ForumHome)
