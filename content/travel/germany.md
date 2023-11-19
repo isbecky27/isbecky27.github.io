@@ -9,7 +9,7 @@ ShowToc= true
 
 ### 1. enerBio - Dinkel gepufft
 小麥版本的爆米香。這款表層有裹蜂蜜，吃起來微甜微甜，可以加在優格裡也可以單吃！  
-感覺之後可以加到牛奶 or 擂茶裡試試 (๑´ސު｀๑) 
+加到牛奶 & 擂茶裡也都超讚的 (๑´ސު｀๑) 
 
 {{< img src="dinkel_v2.jpg#center" width=50% alt="Porridge Frucht" >}}
 
