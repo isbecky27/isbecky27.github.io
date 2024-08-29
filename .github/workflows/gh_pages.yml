@@ -40,3 +40,13 @@ jobs:
           github_token: ${{ secrets.ACCESS_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
+      
+      - name: Deploy to pub-blog
+        run: |
+          cd public
+          git init
+          git remote add origin https://github.com/isbecky27/pub-blog.git
+          git checkout -b master
+          git add .
+          git commit -m "Deploy to pub-blog"
+          git push --force origin master
