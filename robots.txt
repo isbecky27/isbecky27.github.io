@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://isbecky27.github.io/blog/sitemap.xml
