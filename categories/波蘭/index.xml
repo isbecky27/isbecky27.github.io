@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ching&#39;s Blog</title>
-    <link>https://isbecky27.github.io/blog/</link>
-    <description>Recent content on Ching&#39;s Blog</description>
+    <title>波蘭 on Ching&#39;s Blog</title>
+    <link>https://isbecky27.github.io/blog/categories/%E6%B3%A2%E8%98%AD/</link>
+    <description>Recent content in 波蘭 on Ching&#39;s Blog</description>
     <image>
       <title>Ching&#39;s Blog</title>
       <url>https://isbecky27.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://isbecky27.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://isbecky27.github.io/blog/categories/%E6%B3%A2%E8%98%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>波蘭巧克力棉花糖</title>
       <link>https://isbecky27.github.io/blog/life/poland_snack/</link>
@@ -29,16 +29,6 @@
 像太妃糖的味道 還可以，沒有到難吃 可以試一次 結果統計
 好吃 普通 不好吃 0 2 3 </description>
     </item>
-    
-    <item>
-      <title>奧捷自由行 - Overview</title>
-      <link>https://isbecky27.github.io/blog/travel/at_cz/overview/</link>
-      <pubDate>Tue, 26 Sep 2023 16:16:53 +0800</pubDate>
-      
-      <guid>https://isbecky27.github.io/blog/travel/at_cz/overview/</guid>
-      <description>整趟自由行的總覽 - 2023.08</description>
-    </item>
-    
     
   </channel>
 </rss>
