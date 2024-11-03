@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Travel on Ching&#39;s Blog</title>
-    <link>https://isbecky27.github.io/travel/</link>
-    <description>Recent content in Travel on Ching&#39;s Blog</description>
+    <title>小琉球 on Ching&#39;s Blog</title>
+    <link>https://isbecky27.github.io/categories/%E5%B0%8F%E7%90%89%E7%90%83/</link>
+    <description>Recent content in 小琉球 on Ching&#39;s Blog</description>
     <image>
       <title>Ching&#39;s Blog</title>
       <url>https://isbecky27.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://isbecky27.github.io/travel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://isbecky27.github.io/categories/%E5%B0%8F%E7%90%89%E7%90%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>小琉球交通攻略 feat. 高鐵國旅聯票</title>
       <link>https://isbecky27.github.io/travel/liuqiu/</link>
@@ -25,15 +25,6 @@
 以下分段說明（從新竹出發）：
 第一段交通 - 新竹 ➜ 左營 高鐵 ✔ 單獨購買（可查看是否有早鳥票）or 使用高鐵國旅聯票 臺鐵 北部出發肯定是搭高鐵的，不然交通會浪費太多時間 இ௰இ
 第二段交通 - 左營 ➜ 東琉線碼頭 台灣好行客運 - 大鵬灣琉球線 ✔ 線上訂票：KLOOK - 屏東客運｜台灣好行 大鵬灣琉球線 預訂即保留座位，不須額外劃位，且有半價優惠（原價 $122，半價 $61）。 可現場買票 / 刷電子票證（悠遊卡、一卡通.</description>
-    </item>
-    
-    <item>
-      <title>奧捷自由行 - Overview</title>
-      <link>https://isbecky27.github.io/travel/at_cz/overview/</link>
-      <pubDate>Tue, 26 Sep 2023 16:16:53 +0800</pubDate>
-      
-      <guid>https://isbecky27.github.io/travel/at_cz/overview/</guid>
-      <description>整趟自由行的總覽 - 2023.08</description>
     </item>
     
   </channel>
