@@ -11,8 +11,83 @@
     </image>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://isbecky27.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>梵谷博物館購票收不到 SMS Code</title>
+      <link>https://isbecky27.github.io/travel/nl_be/van_gogh_museum/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://isbecky27.github.io/travel/nl_be/van_gogh_museum/</guid>
+      <description>&lt;p&gt;持有博物館卡購票通常是免費的 ~&lt;/p&gt;
+&lt;p&gt;But 非常幸運的，因為這次去的時間點剛好有特殊展覽，所以需要多付 10 歐，也就是説必須刷卡多付錢啦！&lt;/p&gt;
+&lt;p&gt;但到了下面的付款頁面 根本收不到 SMS Code 阿阿阿阿 QAQ&lt;/p&gt;
+
+&lt;img src=&#34;payment.png&#34; alt=&#34;&#34; style=&#34;width:80%;&#34;&gt;
+
+&lt;p&gt;網路上很多人都說去其他平台購買，但其他平台都沒有持有博物館卡的購票選項呀 ..&lt;/p&gt;
+&lt;p&gt;沒錯 就是如此的絕望 இ௰இ&lt;/p&gt;
+&lt;hr class=&#34;dashed-line&#34; /&gt;
+
+&lt;style&gt;
+.post-content .dashed-line {
+    background: linear-gradient(to right, #ccc 50%, transparent 0%);
+    background-size: 15px 4px;
+}
+
+body.dark .post-content .dashed-line {
+    background: linear-gradient(to right, #444 50%, transparent 0%);
+    background-size: 15px 4px;
+}
+&lt;/style&gt;
+
+&lt;h3 id=&#34;如果你沒有博物館卡是要直接購買門票&#34;&gt;如果你沒有博物館卡，是要直接購買門票&lt;/h3&gt;
+&lt;p&gt;看了國外論壇，除了收不到 SMS Code 外，也有不少人是信用卡刷不過。&lt;/p&gt;
+&lt;p&gt;解決方案就是換其他平台購買！官網有列出的合作平台：&lt;/p&gt;
+
+&lt;img src=&#34;official_resellers.png&#34; alt=&#34;&#34; style=&#34;width:80%;&#34;&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ref: &lt;a href=&#34;https://www.vangoghmuseum.nl/en/visit/tickets-and-ticket-prices&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vangoghmuseum&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr class=&#34;dashed-line&#34; /&gt;
+
+&lt;style&gt;
+.post-content .dashed-line {
+    background: linear-gradient(to right, #ccc 50%, transparent 0%);
+    background-size: 15px 4px;
+}
+
+body.dark .post-content .dashed-line {
+    background: linear-gradient(to right, #444 50%, transparent 0%);
+    background-size: 15px 4px;
+}
+&lt;/style&gt;
+
+&lt;h3 id=&#34;如果你持有博物館卡但又需要刷卡付錢&#34;&gt;如果你持有博物館卡，但又需要刷卡付錢&lt;/h3&gt;
+
+
+
+
+  
+  
+  
+
+
+
+&lt;blockquote style=&#34;border-radius: .25rem;
+margin: 1rem 0;
+padding: .7rem 1.2rem .7rem .95rem;
+border-left: .25rem solid;
+border-left-color: rgba(60, 118, 61, 0.75);
+background-color: rgba(223, 240, 216, 1);
+color: rgba(60, 118, 61, 1);
+font-size: 16px;&#34;&gt;
+
+Solution：選擇持有 ICOM 的方式預約參觀時段，持有 ICOM 的話是免費參觀，不需刷卡付費（所以不用收簡訊），入場時出示預約 QRcode 後，現場再付費和加購導覽機即可。
+
+&lt;/blockquote&gt;
+&lt;p&gt;官方回信：&lt;/p&gt;</description>
+    </item>
     <item>
       <title>歐洲訂房隨筆</title>
       <link>https://isbecky27.github.io/travel/nl_be/europe_booking_notes/</link>
