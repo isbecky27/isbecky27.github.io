@@ -11,10 +11,65 @@
     </image>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://isbecky27.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>梵谷博物館購票收不到 SMS Code</title>
+      <title>安妮之家購票辛酸史</title>
+      <link>https://isbecky27.github.io/travel/nl_be/anne_frank_house/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://isbecky27.github.io/travel/nl_be/anne_frank_house/</guid>
+      <description>&lt;p&gt;雖然是辛酸史，但還是紀錄一些有用的資訊 ~&lt;/p&gt;
+
+
+
+
+  
+  
+  
+
+
+
+&lt;blockquote style=&#34;border-radius: .25rem;
+margin: 1rem 0;
+padding: .7rem 1.2rem .7rem .95rem;
+border-left: .25rem solid;
+border-left-color: rgba(169, 68, 66, 0.75);
+background-color: rgba(242, 222, 222, 1);
+color: rgba(169, 68, 66, 1);
+font-size: 16px;&#34;&gt;
+
+小心詐騙網站！貌似有做得超級逼真的假網站..
+
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;幾時開放購票-&#34;&gt;幾時開放購票 ?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;官網：&amp;ldquo;Every Tuesday at 10am CET all tickets become available for a visit six weeks later.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;看完還是一頭霧水的話.. 沒關係，我當初也是算日期算得頭很痛 XD&lt;/p&gt;
+&lt;p&gt;分享好工具 : &lt;a href=&#34;https://www.amsterdam-2-go.com/anne-frank-house-amsterdam.html?fbclid=IwY2xjawJaORFleHRuA2FlbQIxMAABHWdhThqpd24YFKERukB9EeIzGrKtNlLPNow6tjdGr5Gf61fs38ry2L_1AQ_aem_YOjEdN1xu3Bf-JagkmFzMg&#34; style=&#34;color: rgb(169, 68, 66);;&#34;&gt;&lt;strong&gt;安妮之家門票發售日期計算器&lt;/strong&gt;&lt;/a&gt;！&lt;/p&gt;
+ &lt;!-- Anne Frank House Ticket Release Date Calculator  --&gt;
+&lt;p&gt;選好要參觀的日期按下按鈕 就知道哪天要搶票囉 ~&lt;/p&gt;
+
+&lt;img src=&#34;ticket_release_date_calculator.png&#34; alt=&#34;&#34; style=&#34;width:80%;&#34;&gt;
+
+&lt;p&gt;另外要注意購票當天歐洲是夏令時間還是冬令時間，時差會不同 ~&lt;/p&gt;
+&lt;hr class=&#34;dashed-line&#34; /&gt;
+
+&lt;style&gt;
+.post-content .dashed-line {
+    background: linear-gradient(to right, #ccc 50%, transparent 0%);
+    background-size: 15px 4px;
+}
+
+body.dark .post-content .dashed-line {
+    background: linear-gradient(to right, #444 50%, transparent 0%);
+    background-size: 15px 4px;
+}
+&lt;/style&gt;
+
+&lt;h3 id=&#34;搶票心路歷程&#34;&gt;搶票心路歷程&lt;/h3&gt;
+&lt;p&gt;( 當時正在跟人生第一條 Ticket 奮戰呢.. )&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>梵谷博物館購票收不到簡訊</title>
       <link>https://isbecky27.github.io/travel/nl_be/van_gogh_museum/</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://isbecky27.github.io/travel/nl_be/van_gogh_museum/</guid>
@@ -83,7 +138,7 @@ background-color: rgba(223, 240, 216, 1);
 color: rgba(60, 118, 61, 1);
 font-size: 16px;&#34;&gt;
 
-Solution：選擇持有 ICOM 的方式預約參觀時段，持有 ICOM 的話是免費參觀，不需刷卡付費（所以不用收簡訊），入場時出示預約 QRcode 後，現場再付費和加購導覽機即可。
+Solution：選擇持有 ICOM 的方式預約參觀時段，持有 ICOM 的話是免費參觀，不需刷卡付費 ( 所以不用收簡訊 )，入場時出示預約 QRcode 後，現場再付費和加購導覽機即可。
 
 &lt;/blockquote&gt;
 &lt;p&gt;官方回信：&lt;/p&gt;</description>
