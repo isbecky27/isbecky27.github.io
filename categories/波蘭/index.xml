@@ -24,9 +24,9 @@
 &lt;p&gt;&lt;div class=&#34;inline-imgs&#34; style=&#34;&#34;&gt;
     
     
-        &lt;img src=&#34;../imgs/poland_snack/snack1.jpeg&#34; style=&#34;max-width: unset !important;  width: 50%;&#34;&gt;
+        &lt;img src=&#34;../imgs/poland_snack/snack1.webp&#34; style=&#34;max-width: unset !important;  width: 48%;&#34;&gt;
     
-        &lt;img src=&#34;../imgs/poland_snack/snack2.jpeg&#34; style=&#34;max-width: unset !important;  width: 50%;&#34;&gt;
+        &lt;img src=&#34;../imgs/poland_snack/snack2.webp&#34; style=&#34;max-width: unset !important;  width: 48%;&#34;&gt;
     
 &lt;/div&gt;
 
@@ -35,15 +35,10 @@
     display: flex;
     overflow: auto;
     gap: 20px;
-    padding: 0 10px;
-}
-
- 
-.inline-imgs::before, .inline-imgs::after {
-  content: &#39;&#39;;   
-  margin: auto;  
 }
 &lt;/style&gt;
+
+
 
 &lt;br&gt;
 ( 因為有人覺得很難吃所以開始四處發放，目標是蒐集到覺得好吃的人，順便記錄一下大家吃完的心得 )&lt;/p&gt;
@@ -52,9 +47,9 @@
 &lt;p&gt;&lt;div class=&#34;inline-imgs&#34; style=&#34; height: 300px;&#34;&gt;
     
     
-        &lt;img src=&#34;../imgs/poland_snack/snack3.jpeg&#34; style=&#34;max-width: unset !important; &#34;&gt;
+        &lt;img src=&#34;../imgs/poland_snack/snack3.webp&#34; style=&#34;max-width: unset !important; &#34;&gt;
     
-        &lt;img src=&#34;../imgs/poland_snack/snack4.jpeg&#34; style=&#34;max-width: unset !important; &#34;&gt;
+        &lt;img src=&#34;../imgs/poland_snack/snack4.webp&#34; style=&#34;max-width: unset !important; &#34;&gt;
     
 &lt;/div&gt;
 
@@ -63,20 +58,26 @@
     display: flex;
     overflow: auto;
     gap: 20px;
-    padding: 0 10px;
-}
-
- 
-.inline-imgs::before, .inline-imgs::after {
-  content: &#39;&#39;;   
-  margin: auto;  
 }
 &lt;/style&gt;
+
+
 
 &lt;br&gt;
 要不是因為發這篇文查了翻譯，真的不知道原來它是奶油口味 !?
 為了查證，又打開了一片吃了幾口，欸 ? 第二次吃竟然覺得它還行欸.. ?
-但對不起.. 我真的找不到奶油味在哪裡 QAQ&lt;/p&gt;</description>
+但對不起.. 我真的找不到奶油味在哪裡 QAQ&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其他試吃員的評價&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;還可以，沒有到難吃&lt;/li&gt;
+&lt;li&gt;可以試一次&lt;/li&gt;
+&lt;li&gt;化學巧克力，過年會吃的硬幣巧克力的味道&lt;/li&gt;
+&lt;li&gt;這不是棉花糖&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;像太妃糖的味道&lt;/del&gt; 對啦是硬幣巧克力，那時候覺得很熟悉，但想不起來&lt;/li&gt;
+&lt;li&gt;味道似曾相似，偏微妙，但口感不行&lt;/li&gt;
+&lt;li&gt;口感還行，但聞起來味道怪怪的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;結果統計&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
